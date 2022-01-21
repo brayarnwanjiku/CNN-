@@ -1,1 +1,1 @@
-# CNN-for-Coffee-Leaf-Detection
+# CNN-for-Coffee-Leaf-Disease-Detection
